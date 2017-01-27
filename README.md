@@ -6,4 +6,4 @@ As we want everyone to feel welcome, read through our [Code of Conduct](https://
 
 ## What are we up to?
 
-All kinds of activities around teaching, building and protecting the web - the details are up to you, the members! We started [with a list of ideas](https://gitlab.bham.ac.uk/MozCC-Bham/community/issues?label_name%5B%5D=Lesson), so please give a thumbs up to the topics you're interested in and suggest anything that we might have missed out on but you want to do as part of the Club. 
+All kinds of activities around teaching, building and protecting the web - the details are up to you, the members! We started [with a list of ideas](https://gitlab.bham.ac.uk/MozCC-Bham/community/issues?label_name%5B%5D=Lesson), so please give a thumbs up to the topics you're interested in and suggest anything that we might have missed out on, but you want to do as part of the Club. 
