@@ -1,7 +1,7 @@
 # Code of Conduct
 
 Mozilla Campus Club Birmingham events are community events intended for networking and collaboration as well as learning. We value the participation of everyone at the University of Birmingham and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the event and in interactions online associated with the Campus Club.
-To make clear what is expected, everyone taking part in CERN Study Group events and discussions—instructors, helpers, organizers, and learners—is required to conform to the following Code of Conduct. Organizers will enforce this code throughout events, but you may also contact us privately; all communication will be treated as confidential.
+To make clear what is expected, everyone taking part in Mozilla Campus Club Birmingham events and discussions—instructors, helpers, organizers, and learners—is required to conform to the following Code of Conduct. Organizers will enforce this code throughout events, but you may also contact us privately; all communication will be treated as confidential.
 
 ### The Short Version
 
